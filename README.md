@@ -20,4 +20,3 @@ There are three sets of stakeholders. Clients, Users and Developers
 - Clean, well-committed source code
 - All documentation in Markdown format
 - others ...
-invert
