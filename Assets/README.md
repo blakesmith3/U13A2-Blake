@@ -7,7 +7,7 @@ There are three sets of stakeholders. Clients, Users and Developers
 
 #### Client Requirements
 - Professional, presenting good image of company  
--
+- Promotions of the company
 
 #### Visitor Requirements
 - Easy to navigate
